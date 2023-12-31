@@ -1,7 +1,7 @@
 https://www.slideshare.net/FenilShah34/01-knapsack-using-dynamic-programming
 https://www.youtube.com/watch?v=nLmhmB6NzcM&t=3s
 https://www.youtube.com/watch?v=zRza99HPvkQ&t=36s
-https://www.udemy.com/course/algorithmic-problems-in-python/learn/lecture/3931082#content
+most of the slides are from ===> https://www.udemy.com/course/algorithmic-problems-in-python/learn/lecture/3931082#content
 https://medium.com/@fabianterh/how-to-solve-the-knapsack-problem-with-dynamic-programming-eb88c706d3cf
 https://www.javatpoint.com/0-1-knapsack-problem
 https://www.tutorialspoint.com/design_and_analysis_of_algorithms/design_and_analysis_of_algorithms_longest_common_subsequence.htm
