@@ -1,3 +1,4 @@
+material/resources/tools/references
 https://www.slideshare.net/FenilShah34/01-knapsack-using-dynamic-programming
 https://www.youtube.com/watch?v=nLmhmB6NzcM&t=3s
 https://www.youtube.com/watch?v=zRza99HPvkQ&t=36s
